@@ -21,19 +21,19 @@ export const HomePage = () => {
                   <div className="w-20 h-20 bg-red-500 rounded-full mb-2 flex items-center justify-center text-xl">
                     SW
                   </div>
-                  <p className="text-base">Witchy Woman</p>
+                  <p className="text-base">Cody Gakpo</p>
                 </div>
                 <div className="text-white text-center">
                   <div className="w-20 h-20 bg-red-500 rounded-full mb-2 flex items-center justify-center text-xl">
                     SS
                   </div>
-                  <p className="text-base">Shining Star</p>
+                  <p className="text-base">Darwin Nunez</p>
                 </div>
                 <div className="text-white text-center">
                   <div className="w-20 h-20 bg-red-500 rounded-full mb-2 flex items-center justify-center text-xl">
                     MB
                   </div>
-                  <p className="text-base">Mr. Bones</p>
+                  <p className="text-base">Mohamed Salah</p>
                 </div>
               </div>
 
@@ -42,19 +42,19 @@ export const HomePage = () => {
                   <div className="w-20 h-20 bg-blue-500 rounded-full mb-2 flex items-center justify-center text-xl">
                     ML
                   </div>
-                  <p className="text-base">Lockyer</p>
+                  <p className="text-base">Curtis Jones</p>
                 </div>
                 <div className="text-white text-center">
                   <div className="w-20 h-20 bg-blue-500 rounded-full mb-2 flex items-center justify-center text-xl">
                     TE
                   </div>
-                  <p className="text-base">Eagles</p>
+                  <p className="text-base">Ryan Gravenberch</p>
                 </div>
                 <div className="text-white text-center">
                   <div className="w-20 h-20 bg-blue-500 rounded-full mb-2 flex items-center justify-center text-xl">
                     EW
                   </div>
-                  <p className="text-base">Earth, Wind</p>
+                  <p className="text-base">Dominic Szoboszlai</p>
                 </div>
               </div>
               <div className="flex justify-evenly mt-auto">
@@ -62,25 +62,25 @@ export const HomePage = () => {
                   <div className="w-20 h-20 bg-yellow-500 rounded-full mb-2 flex items-center justify-center text-xl">
                     LB
                   </div>
-                  <p className="text-base">Left Back</p>
+                  <p className="text-base">Andrew Robertson</p>
                 </div>
                 <div className="text-white text-center">
                   <div className="w-20 h-20 bg-yellow-500 rounded-full mb-2 flex items-center justify-center text-xl">
                     CB
                   </div>
-                  <p className="text-base">Center Back</p>
+                  <p className="text-base">Virgil Van Dijk</p>
                 </div>
                 <div className="text-white text-center">
                   <div className="w-20 h-20 bg-yellow-500 rounded-full mb-2 flex items-center justify-center text-xl">
                     CB
                   </div>
-                  <p className="text-base">Center Back</p>
+                  <p className="text-base">Ibrahima Konate</p>
                 </div>
                 <div className="text-white text-center">
                   <div className="w-20 h-20 bg-yellow-500 rounded-full mb-2 flex items-center justify-center text-xl">
                     RB
                   </div>
-                  <p className="text-base">Right Back</p>
+                  <p className="text-base">Trent Alexander-Arnold</p>
                 </div>
               </div>
 
@@ -89,7 +89,7 @@ export const HomePage = () => {
                   <div className="w-20 h-20 bg-gray-500 rounded-full mb-2 flex items-center justify-center text-xl">
                     GK
                   </div>
-                  <p className="text-base">Goalkeeper</p>
+                  <p className="text-base">Alisson Becker</p>
                 </div>
               </div>
             </div>
